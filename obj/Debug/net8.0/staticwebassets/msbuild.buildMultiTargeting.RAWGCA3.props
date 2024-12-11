@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RAWGCA3.props" />
+</Project>
